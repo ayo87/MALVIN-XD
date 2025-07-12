@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-      "SESSION_ID": {
+      "SESSION_ID": {malvin~1ys3lKyS#WBg7u9K9EoYyFX_QYF-Z9YbjkwnjYQYyi17sbmqjgFs
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
         "value":"",
         "required": true
